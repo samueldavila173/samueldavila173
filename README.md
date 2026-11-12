@@ -13,11 +13,9 @@ I'm particularly interested in understanding how systems work, analyzing data an
 
 ## Projects
 
-### AWS — Cloud Monitoring & Troubleshooting
-Hands-on exercises using AWS Lambda, S3 and CloudWatch to investigate execution errors, permissions and application logs.
+### [AWS — Cloud Monitoring & Troubleshooting](https://github.com/samueldavila173/olist-aws-incident-lab)
 
-### SQL — E-commerce Data Exploration
-Exploratory analysis of an e-commerce dataset using PostgreSQL, including customer behavior, order status and delivery performance.
+### [SQL — E-commerce Data Exploration](https://github.com/samueldavila173/olist-sql-analysis)
 
 ## Current Focus
 
