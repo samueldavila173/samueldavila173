@@ -15,8 +15,6 @@ I'm particularly interested in understanding how systems work, analyzing data an
 
 ### [AWS — Cloud Monitoring & Troubleshooting](https://github.com/samueldavila173/olist-aws-incident-lab)
 
-### [SQL — E-commerce Data Exploration](https://github.com/samueldavila173/olist-sql-analysis)
-
 ## Current Focus
 
 - Strengthening my SQL and data analysis skills
